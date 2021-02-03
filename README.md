@@ -24,5 +24,5 @@ UI Timer
 ## Controls:
 ![controls](https://raw.githubusercontent.com/theanasuddin/Stopwatch-N-Timer/main/controls.png)
 
-## GIF:
-![demo gif](https://raw.githubusercontent.com/theanasuddin/Programming-In-Processing/main/Clock/demo.gif)
+## Demo GIF:
+![demo gif](https://raw.githubusercontent.com/theanasuddin/Stopwatch-N-Timer/main/demo.gif)
