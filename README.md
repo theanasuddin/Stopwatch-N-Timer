@@ -13,9 +13,16 @@
  
 ## Screenshots:
 
-UI
+UI Stopwatch
 
-![user interface](https://raw.githubusercontent.com/theanasuddin/Programming-In-Processing/main/Clock/UI.png)
+![user interface stopwatch](https://raw.githubusercontent.com/theanasuddin/Stopwatch-N-Timer/main/ui_stopwatch.png)
+
+UI Timer
+
+![user interface timer](https://raw.githubusercontent.com/theanasuddin/Stopwatch-N-Timer/main/ui_timer.png)
+
+## Controls:
+![controls](https://raw.githubusercontent.com/theanasuddin/Stopwatch-N-Timer/main/controls.png)
 
 ## GIF:
 ![demo gif](https://raw.githubusercontent.com/theanasuddin/Programming-In-Processing/main/Clock/demo.gif)
